@@ -5,23 +5,42 @@
       background-color: #f6f8fa; /* Grey background for content area */
       background-repeat: no-repeat;
       background-attachment: fixed;
+      overflow-y: scroll; /* Show vertical scrollbar */
     }
 
-      a:link, a:visited {
-        color: #000080;
-        text-decoration: underline dotted;
-        text-decoration-thickness: 1px;
-      }
+    a:link, a:visited {
+      color: #000080;
+      text-decoration: underline dotted;
+      text-decoration-thickness: 1px;
+    }
 
-      a:active, a:focus {
-        text-decoration: underline;
-        color: #400040;
-      }
-      
-      a:hover {
-        text-decoration: underline;
-        color: #800000;
-      }
+    a:active, a:focus {
+      text-decoration: underline;
+      color: #400040;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+      color: #800000;
+    }
+
+    .alignleft {
+      float: left;
+      text-align: left;
+      margin-right: 10px;
+    }
+
+    .alignright {
+      float: right;
+      text-align: right;
+      margin-left: 10px;
+    }
+
+    .aligncenter {
+      display:block;
+      margin-left:auto;
+      margin-right:auto;
+    }
 
     .header {
       display: flex;
