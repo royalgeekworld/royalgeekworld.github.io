@@ -1,0 +1,18 @@
+<h2>RGW Stream</h2>
+
+<span class="aligncenter clearfix" style="text-align: center;">
+  <iframe src="https://player.twitch.tv/?channel=Det_Conan_Kudo&parent=royalgeekworld.github.io&muted=true"
+          style="border: 1px solid #eecc30; border-right: none; margin: 0px; padding: 0px; background-color: rgba(32,32,32,0.85);"
+          height="480"
+          width="720"
+          allowfullscreen>
+  </iframe>
+  <iframe id="twitch-chat-embed"
+          src="https://www.twitch.tv/embed/Det_Conan_Kudo/chat?parent=royalgeekworld.github.io"
+          style="border: 1px solid #eecc30; border-left: none; margin: 0px; padding: 0px; margin-left: -4px; background-color: rgba(32,32,32,0.85);"
+          height="480"
+          width="460">
+  </iframe>
+</span>
+
+<h3 style="text-align: center;">Enjoy the stream? Please consider supporting me on Github!</h3>

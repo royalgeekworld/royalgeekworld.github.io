@@ -5,7 +5,7 @@
 <p>This site is where I lay claim to my personal bit of the internet and try to provide a central location describing what I am, what I do, and where I'll be. If you're interested in learning more about me, check out my <a href="javascript:void(0)" onclick="loadContent('about');">About page</a>. If you want to see what events I'll be at so we can chat and hang out, check out the <a href="javascript:void(0)" onclick="loadContent('events');">Events</a> page.
 </p>
 
-<p>Be sure to check out the <a href="/stream/">Stream page</a> for occasional community fun!</p>
+<p>Be sure to check out the <a href="javascript:void(0)" onclick="loadContent('stream');">Stream page</a> for occasional community fun!</p>
 
 <hr />
 
